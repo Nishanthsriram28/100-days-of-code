@@ -2,8 +2,9 @@
 
 ### Day 1: December 24th, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started Basics Java Did some Fibonacci and Basic problems.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** it's easy today because i just made basics done .
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** /*[Calculator App](http://www.example.com)*/
+
