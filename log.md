@@ -15,3 +15,11 @@
 **Thoughts:** it's easy today because i just made basics done .
 
 **Link to work:** (https://www.linkedin.com/posts/nishanth-sriram-072b66342_100daysofcode-apnacollege-javadsa-activity-7277170206597103616-s2_T?utm_source=share&utm_medium=member_desktop)
+
+### Day 3: December 25th, 2024
+
+**Today's Progress**:Started Conditionals and finally understood the logic of leap year  .
+
+**Thoughts:** i am consistent for 3 days let's see .
+
+**Link to work:** (https://www.linkedin.com/posts/nishanth-sriram-072b66342_100daysofcode-coding-100daysofcode-activity-7277571333838843904-INCp?utm_source=share&utm_medium=member_desktop)
