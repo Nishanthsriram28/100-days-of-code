@@ -23,3 +23,11 @@
 **Thoughts:** i am consistent for 3 days let's see .
 
 **Link to work:** (https://www.linkedin.com/posts/nishanth-sriram-072b66342_100daysofcode-coding-100daysofcode-activity-7277571333838843904-INCp?utm_source=share&utm_medium=member_desktop)
+
+### Day 4: December 26th, 2024
+
+**Today's Progress**:Started loops and understood the logic of factorial and sum of numbers  .
+
+**Thoughts:** Today I delved into the concept of loops and managed to grasp the basics of calculating factorials and sum numbers. I've found loops to be quite challenging,  I  need to get more comfortable with these concepts! #javadsa @kunalstwt @apnacolleg
+
+**Link to work:** (https://www.linkedin.com/posts/nishanth-sriram-072b66342_100daysofcode-javadsa-kunalkushwaha-activity-7277970409927454720-T7Gd?utm_source=share&utm_medium=member_desktop)
