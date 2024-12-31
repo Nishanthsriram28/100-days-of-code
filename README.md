@@ -3,7 +3,7 @@
 ## Contents
 
 - [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
+- [Log - click here to see my progress]([log.md](https://github.com/Nishanthsriram28/100-days-of-code/blob/master/Day%201-10.md))
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
 
